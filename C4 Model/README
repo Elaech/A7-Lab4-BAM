@@ -1,0 +1,12 @@
+  In acest folder am incarcat imagini cu modelarea diagramelor C4 pentru partea de context, containere si componente.
+
+  La nivelul C1 se poate observa nivelul de context al aplicatiei. Se prezinta interactiunea actorilor principali (aplicatia, utilizatorul, baza de date) si relatia dintre ei.
+
+  Dand zoom pe aplicatie din nivelul context C1 ajungem la nivelul C2(1), diagrama container unde prezentam interactiunea aplicatiei cu API-urile de sistem puse la dispozitie si vizionate prin platforma Web System.
+
+  Dand zoom din nivelul context C1 pe componenta utilizator ajungem la nivelul C2(2), diagrama container unde se arata structura arborescenta a posibililor utilizator si relatia dintre ei.
+
+  Din diagrama container C2(1) daca dam zoom pe componenta Web Application se va detalia functionalitatile puse la dispozitie de aplicatie.
+
+  La aceasta componenta de laborator a lucrat studenta Ionita Andra Paula din anul 2 grupa A7.
+  Diagramele au fost realizate in draw.io.
