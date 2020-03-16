@@ -1,7 +1,7 @@
 # A7-Lab4-BAM
-#Document editat de Minuț Mihai Dimitrie
+#Document editat de Minuț Mihai Dimitrie.
 Acest repository va fi folosit pe decursul laboratorului 4 de Ingineria Programarii de catre echipa BAM.
-Echipa BAM consta in urmatorii membri din grupa 2A7: Minuț Mihai-Dimitrie, Ionița Andra-Paula, Crețu Bogdan-Antonio
+Echipa BAM consta in urmatorii membri din grupa 2A7: Minuț Mihai-Dimitrie, Ionița Andra-Paula, Crețu Bogdan-Antonio.
 Modul de desfasurare a fost urmatorul in mediul online:
 
 1. Am stabilit 10 minute ce clase ar trebui sa existe si ce functionalitati pentru sincronizare
