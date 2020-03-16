@@ -12,6 +12,6 @@ Modul de desfasurare a fost urmatorul in mediul online:
 6. Minut Mihai-Dimitrie a facut forward engineering cu ajutorul compilatorului de java generand fisiere .class .
 7. Crețu Bogdan-Antonio a facut reverse engineering folosind DJ Java Decompiler pentru a obtine fisierele .java din cele .class.
 8. Crețu Bogdan-Antonio a facut reverse engineering folosind metoda de incarcare de clase din Visual Paradigm pentru a obtine Diagrama de Clase.
-
+9. Ionița Andra-Paula a fost supervizor pentru etapele de forward si reverse engineering.
 *Toata munca sa desfasurat intr-un mod calculat folosing GitHub si Trello
 *Am folosit ca mijloc de comunicare in mediul online Skype.
